@@ -4,7 +4,7 @@ My Amazing Git(M.A.Git) is a personal Git version - based on the original Git.
 # Introduction:
 As a part of our Java course , we developed our own version of Git platform.
 Our system allows several users to manage different repositories and to control their versions across the repository history.
-During this Project we learned about new Java elements such as :
+During this Project we learned about new Java elements such as:
 * Using multiple threads in Java
 * Creating desktop Application with JavaFX
 * Work with several projects and 3rd side libararies
