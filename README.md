@@ -19,7 +19,7 @@ The system allows the user several actions such as:
 * Commit and save the changes that were done on repository
 * Create new empty repository
 * Load repository from XML
-* Work with remote repository(Collaboration)- actions like clone,fetch,push,pull are available
+* Work with remote repository(Collaboration) - actions like clone, fetch, push, pull are available
 * Merge action between 2 commits
 * Multiple branches actions - checkout to other branch than the master, delete branch, create branch, etc
 
