@@ -32,6 +32,7 @@ For each commit, the system supply some usefull information like:
 * On what time the commit was created
 
 ![Screenshot](‏‏screenshot1.PNG)
+
 ![Screenshot](‏‏screenshot2.PNG)
 
 
