@@ -31,7 +31,7 @@ For each commit, the system supply some usefull information like:
 * The actual content of the repository after the commit was done(The files that were available and their content)
 * On what time the commit was created
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.PNG)
 
 
 
